@@ -1,0 +1,20 @@
+body {
+  background-image: url('https://specials-images.forbesimg.com/imageserve/1126082719/960x0.jpg?fit=scale');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cover-heading{
+  font-family: 'Permanent Marker', cursive;
+  transition: all 3s ease-in-out;
+  -webkit-transition:all 3s ease-in-out;
+  -moz-transition:all 3s ease-in-out;
+  -o-transition:all 15s ease-in-out;
+  color: #ff0000;
+  text-shadow: 0px 0px 5px #888;
+}
+
+.lead {
+  text-transform: uppercase;
+  font-weight: bold;
+}
